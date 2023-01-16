@@ -33,7 +33,7 @@ function watch() {
         sec=0
         if(min==60){
             min=0
-            hr++
+            hour++
         }
     }
     document.getElementById('watch').innerText=twoDigits(hour)+':'+twoDigits(min)+':'+twoDigits(sec)
