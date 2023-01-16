@@ -1,9 +1,9 @@
-# Um projeto simples
+# A simple design
 
-**eu precisei criar apenas 3 botões para executar os seguintes comandos:**
+**I need to create only 3 buttons to execute the following commands:**
 
-- Iniciar
-- Parar
-- Reiniciar
+- Start
+- For
+- Restart
 
-Vai te ajudar muito a trabalhar com temporizadores que é algo fundamental dominar.
+It will help you a lot to work with tempos, which is something fundamental to master.
