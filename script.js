@@ -13,7 +13,7 @@ function pause() {
 }
 
 function stop() {
-    clearInterval(interval)
+    pause()
     sec=0
     min=0
     hour=0
